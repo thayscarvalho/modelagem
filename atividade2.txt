@@ -1,0 +1,4 @@
+2- Com suas palavras, explique a importância de seguir as regras normais no desenvolvimento de uma modelagem de dados.
+
+As regras normais ajudam na criação de uma modelagem com uma possibilidade menor de falhas,
+auxiliando na diminuição da redundâncias desnecessárias e em um melhor estruturamento.
