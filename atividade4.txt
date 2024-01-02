@@ -1,0 +1,6 @@
+4- Sobre a modelagem feita por Ianko para a ImmoLink, quais são as divergências em relação ao seu pensamento, seja em tipagem,
+nomenclatura, tabelas, etc.
+
+Um exemplo é na tabela proprietário que eu adicionei também atributos como CPF, e-mail.
+E criei uma tabela a parte para acesso interno dos proprietários e funcionários, com senha, biometria (null) e usuário.
+A tabela unidade no modelo de Ianko na minha está como imovel.
