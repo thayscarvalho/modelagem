@@ -1,0 +1,14 @@
+1- Cite qual é a utilidade de cada um dos pilares do pensamento computacional e
+como podem ser usados em problemas reais não relacionados a computadores.
+
+Abstração: utilizado para focarmos em informações que sejam relevantes para a resolução do problema e assim não perder o foco.
+
+Decomposição: usada para quebrar um problema em partes menores para serem resolvidos mais facilmente.
+
+Reconhecimento de Padrões: quando conseguimos identificar um padrão dentro de um problema é possível pular etapas, acelerando o processo de resolução. 
+E também é possível ter pontos em comum em problemas diferentes.
+
+Design de Algoritmo: criação de um passo a passo para resolver algum problema ou atiginr um objetivo.
+
+Os pilares podem ser usados em tarefas do dia-a-dia como fazer uma lista de compras, criar uma receita, organizar sua rotina diária 
+priorizando certas atividades.
